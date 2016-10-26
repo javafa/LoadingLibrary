@@ -1,5 +1,6 @@
 # LoadingLibrary
-- Glide
+1.Glide
 https://github.com/bumptech/glide
--Picasso
+
+2.Picasso
 http://square.github.io/picasso/
